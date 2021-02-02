@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_my_orders"
+            android:title="My Orders" />
+
+        <item
+            android:id="@+id/nav_my_cart"
+            android:title="My Cart" />
+
+        <item
+            android:id="@+id/nav_my_wishlist"
+            android:title="My Wishlist" />
+
+        <item
+            android:id="@+id/nav_membership"
+            android:title="bbstar Membership" />
+
+        <item
+            android:id="@+id/nav_customer_service"
+            android:title="Customer" />
+
+        <item
+            android:id="@+id/nav_review"
+            android:title="Rate and Review Products" />
+
+        <item
+            android:id="@+id/nav_cookbook"
+            android:title="bb cookbook" />
+
+        <item
+            android:id="@+id/nav_giftcard"
+            android:title="Gift Card" />
+
+        <item
+            android:id="@+id/nav_bb_lifestyle"
+            android:title="bb Lifestyle" />
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:title="Notifications" />
+
+        <item
+            android:id="@+id/nav_faqs"
+            android:title="FAQs" />
+    </group>
+</menu>

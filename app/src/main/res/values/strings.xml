@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">e-commerce</string>
+    <string name="bold"><b>India\'s Largest online supermarket</b></string>
+    <string name="first_title"><b>Quality Products</b></string>
+    <string name="second_title"><b>Effortless Payments</b></string>
+    <string name="third_title"><b>Easy Returns</b></string>
+    <string name="fourth_title"><b>Competitive Prices</b></string>
+    <string name="first_desc">Quality fruits and vegetables sourced daily from 8000+ farmers</string>
+    <string name="second_desc">Pay via Cash on Delivery, or any online mode</string>
+    <string name="third_desc">No queries asked returns. If you dont like it, we take it back.</string>
+    <string name="fourth_desc">Great discounts across 40,000+ products</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_my_account">My Account</string>
+    <string name="menu_my_orders">My Orders</string>
+    <string name="menu_my_cart">My Cart</string>
+    <string name="menu_my_wishlist">My Wishlist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
